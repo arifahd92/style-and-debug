@@ -7,7 +7,9 @@
   box-shadow: 0 0 4px rgba(0, 0, 0, 0.26);
   cursor: pointer;
 }
-
+.invalid{
+  background: rgb(222, 100, 100)
+}
 .button:focus {
   outline: none;
 }
